@@ -1,4 +1,5 @@
 Problem Statement : 
+
 Atliq Grands, a hotel chain operating across multiple cities in India, is currently encountering stiff competition within its segment, resulting in a decline in revenue and market share.To turn things around, they want to analyze data from May 2022 to June 2022.The primary goal is to utilize Python's built-in libraries to extract valuable insights from provided datasets, focusing on aspects such as ratings, realized revenue, occupancy percentage, and other metrics.
 
 
